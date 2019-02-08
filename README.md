@@ -14,10 +14,10 @@ Pure SCSS hover-activated tool-tip configured with custom HTML attributes.<br>**
   **Examples**:
 
   ```html
-  <button tooltip="Button 1" tooltip-position="top"></button>
-  <button tooltip="Button 2" tooltip-position="right"></button>
-  <button tooltip="Button 3" tooltip-position="bottom"></button>
-  <button tooltip="Button 4" tooltip-position="left"></button>
+  <button tooltip="Button 1" tooltip-position="top">Button</button>
+  <button tooltip="Button 2" tooltip-position="right">Button</button>
+  <button tooltip="Button 3" tooltip-position="bottom">Button</button>
+  <button tooltip="Button 4" tooltip-position="left">Button</button>
   ```
 
 - An SCSS map for some basic tool-tip styling customization:
