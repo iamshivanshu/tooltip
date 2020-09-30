@@ -1,6 +1,6 @@
 # Tooltip
 
-Pure SCSS hover-activated tool-tip configured with custom HTML attributes.<br>**Implementation**: [View article on Medium](https://medium.freecodecamp.org/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346)
+Pure css hover-activated tool-tip configured with custom HTML attributes.<br>**Implementation**: [View article on Medium](https://medium.freecodecamp.org/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346)
 
 <p align="center"><img width="400px" src="https://i.ibb.co/hm5nc0J/tooltips.png"></p>
 
